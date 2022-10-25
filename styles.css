@@ -1,0 +1,20 @@
+#main-doc{
+  position: absolute;
+  margin-left:25%;
+}
+#navbar{
+  position: absolute;
+  width:25%;
+}
+@media (max-width: 1199px) and (min-width: 769px) {
+#main-doc{
+  width: 675px;
+}
+#navbar{
+  width: 633px;
+#navbar{
+  width: 500px;}
+section, #Introduction{
+    font-weight: bold;
+  font-size: 20px;
+  }
